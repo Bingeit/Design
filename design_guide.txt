@@ -1,0 +1,5 @@
+Game of Thrones File:
+
+Title font: Montserrat Semi Bold 30pt
+Description Font: montserrat Light 14pt
+Read More Font: Montserrat Regular 18pt
