@@ -40,3 +40,9 @@ Use iron_man.png
 Background: #3f0202
 Title Text: Montserrat Semi Bold 48pt
 Body: Montserrat Light 34pt
+
+
+BOTTOM NAV BAR:
+
+Highlighted: #00314c 
+non-higlighted: #
