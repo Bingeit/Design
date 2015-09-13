@@ -3,3 +3,40 @@ Game of Thrones File:
 Title font: Montserrat Semi Bold 30pt
 Description Font: montserrat Light 14pt
 Read More Font: Montserrat Regular 18pt
+
+
+TOPIC INFO PAGES:
+
+
+
+DONALD TRUMP:
+
+Use donald_trump.png
+Background: #052e61
+Title Text: Montserrat Semi Bold 48pt
+Body: Montserrat Light 31pt
+
+
+NEW ENGLAND PATRIOTS:
+
+Use new_england_patriots.png or the one with the gradient
+Background: 955100
+Title Text: Montserrat Semi Bold 48pt
+Score Text: Montserrat Bold 60pt
+Latest Score Text: Montserrat Regular 30pt
+Body Text: Montserrat Light 30pt
+
+GAME OF THRONES:
+
+Background: #000000
+Title Text: Montserrat Semi Bold 48pt
+Body: Montserrat Light 34pt
+IMDB Rating: Montserrat Light 48pt
+Use IMDB Icon
+
+IRON MAN:
+
+Use iron_man.png
+Background: #3f0202
+Title Text: Montserrat Semi Bold 48pt
+Body: Montserrat Light 34pt
